@@ -1,0 +1,13 @@
+
+
+| No. | Question                                                           | Chart Type              | Matplotlib Function                |
+| --- | ------------------------------------------------------------------ | ----------------------- | ---------------------------------- |
+| 1   | How many Movies vs TV Shows?                                       | Bar Chart               | `plt.bar()`                        |
+| 2   | What is the percentage of each content rating (PG, R, TV-MA)?      | Pie Chart               | `plt.pie()`                        |
+| 3   | How has the number of releases changed over the years?             | Line Plot               | `plt.plot()`                       |
+| 4   | What is the distribution of movie durations?                       | Histogram               | `plt.hist()`                       |
+| 5   | Relationship between release year and number of shows?             | Scatter Plot (optional) | `plt.scatter()`                    |
+| 6   | Top 10 countries with the highest number of shows?                 | Horizontal Bar Chart    | `plt.barh()`                       |
+| 7   | Compare multiple plots together (e.g., Movies vs TV Shows by Year) | Subplots                | `plt.subplot()` / `plt.subplots()` |
+| 8   | Save final charts                                                  | Saving Figures          | `plt.savefig()`                    |
+
